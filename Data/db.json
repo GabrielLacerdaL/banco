@@ -1,0 +1,30 @@
+{
+    "carouselImages": [
+      {
+        "src": "https://raw.githubusercontent.com/GabrielLacerdaL/banco/main/img/udemy%20c%20(2).jpeg",
+        "alt": "Primeiro slide",
+        "link": "https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/?couponCode=LETSLEARNNOWPP"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/GabrielLacerdaL/banco/main/img/udemy%20diw%20(2).jpeg",
+        "alt": "Segundo slide",
+        "link": "https://www.udemy.com/course/web-completo/?couponCode=LETSLEARNNOWPP"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/GabrielLacerdaL/banco/main/img/udemy%20git%20(2).jpeg",
+        "alt": "Terceiro slide",
+        "link": "https://www.udemy.com/course/git-and-github-bootcamp/?couponCode=LETSLEARNNOWPP"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/GabrielLacerdaL/banco/main/img/Udemy%20Python.jpeg",
+        "alt": "Quarto slide",
+        "link": "https://www.udemy.com/course/100-days-of-code/?couponCode=LETSLEARNNOWPP"
+      },
+      {
+        "src": "https://raw.githubusercontent.com/GabrielLacerdaL/banco/main/img/udemy%20java.jpeg",
+        "alt": "Quinto slide",
+        "link": "https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=LETSLEARNNOWPP"
+      }
+    ]
+  }
+  
